@@ -2,7 +2,7 @@
 A debug tool, originating from Nordgaren's Debug Tool (https://github.com/Nordgaren/Elden-Ring-Debug-Tool) to work for Convergence, adding convergence items.
 
 
-To use this, go into the inventory tab at the bottom of the debug tool, click on the Category drop-down at the top right of the tool, and you'll find 5 sections:
+To use this, go into the inventory tab at the bottom of the debug tool, click on the Category drop-down at the top left of the tool, and you'll find 5 sections:
 
 Armor: Consisting of the new armors added by Convergence.
 
