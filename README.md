@@ -15,4 +15,10 @@ Runes: All runes (faint, shimmering, glowing, and so on) added by Convergence.
 Staffs and Seals: All new staffs and seals added by Convergence.
 
 
-Installation: Unpack the Resource folder, then simply move it into the Debug Tool folder (looking like this: https://imgur.com/a/VSMwGxf), and click Replace Files, and it should work.
+# Installation
+
+Unpack the Resource folder, then simply move it into the Debug Tool folder (looking like this: https://imgur.com/a/VSMwGxf), and click Replace Files, and it should work.
+
+# Notice
+
+# If I missed anything, any tools, consumables, etc, if anything is not working correctly then please do tell me, I may or may **not** be able to fix it, sending me the item ID would also be incredibly helpful to adding said items, thank you.
