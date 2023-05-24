@@ -21,4 +21,4 @@ Unpack the Resource folder, then simply move it into the Debug Tool folder (look
 
 # Notice
 
-# If I missed anything, any tools, consumables, etc, if anything is not working correctly then please do tell me, I may or may **not** be able to fix it, sending me the item ID would also be incredibly helpful to adding said items, thank you.
+If I missed anything, any tools, consumables, etc, if anything is not working correctly then please do tell me, I may or may **not** be able to fix it, sending me the item ID would also be incredibly helpful to adding said items, thank you.
