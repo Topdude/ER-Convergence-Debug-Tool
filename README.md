@@ -1,3 +1,5 @@
+(this is currently unupdated, the one on nexusmods is updated though)
+
 # ER-Convergence-Debug-Tool
 A debug tool, originating from Nordgaren's Debug Tool (https://github.com/Nordgaren/Elden-Ring-Debug-Tool) to work for Convergence, adding convergence items.
 
